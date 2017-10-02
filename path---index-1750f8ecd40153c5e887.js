@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Blog Test I’m sure I’ll write a lot more interesting things in the future.",frontmatter:{path:"/hello-world/",date:"15 September, 2017",title:"Hello World"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-1750f8ecd40153c5e887.js.map
